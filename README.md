@@ -49,14 +49,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<a href="https://www.coursera.org/account/accomplishments/verify/MWLH654XX2TM"><img src="https://img.shields.io/badge/-Certified%20in%20Cybersecurity%20(CC)-3399FF?&style=for-the-badge&logo=ISC2&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-Certified%20in%20Cybersecurity%20(CC)-3399FF?&style=for-the-badge&logo=ISC2&logoColor=white"/>
+
+<a href="https://www.coursera.org/account/accomplishments/verify/MWLH654XX2TM"><a href="https://www.coursera.org/account/accomplishments/verify/MWLH654XX2TM"><img src="https://img.shields.io/badge/-Microsoft Introduction to Computers and Operating Systems and Security%2B-007ACC?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
+
+<a href="https://www.coursera.org/account/accomplishments/verify/I36X2FR14FC6"><a href="https://www.coursera.org/account/accomplishments/verify/MWLH654XX2TM"><img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
+
+<a href="https://www.coursera.org/account/accomplishments/verify/0675AYJ0ND4S"><a href="https://www.coursera.org/account/accomplishments/verify/MWLH654XX2TM"><img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
 
 
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
