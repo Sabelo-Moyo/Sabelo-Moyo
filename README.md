@@ -47,15 +47,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Certified%20in%20Cybersecurity%20(CC)-3399FF?&style=for-the-badge&logo=ISC2&logoColor=white"/>
-
 <a href="https://www.coursera.org/account/accomplishments/verify/MWLH654XX2TM"><a href="https://www.coursera.org/account/accomplishments/verify/MWLH654XX2TM"><img src="https://img.shields.io/badge/-Microsoft Introduction to Computers and Operating Systems and Security%2B-007ACC?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
-
-<a href="https://www.coursera.org/account/accomplishments/verify/I36X2FR14FC6"><a href="https://www.coursera.org/account/accomplishments/verify/MWLH654XX2TM"><img src="https://img.shields.io/badge/-Cybersecurity Threat Vectors and Mitigation%2B-007ACC?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
-
-<a href="https://www.coursera.org/account/accomplishments/verify/0675AYJ0ND4S"><a href="https://www.coursera.org/account/accomplishments/verify/MWLH654XX2TM"><img src="https://img.shields.io/badge/-Introduction to Networking and Cloud Computing%2B-007ACC?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
+<a href="https://www.coursera.org/account/accomplishments/verify/I36X2FR14FC6"><a href="https://www.coursera.org/account/accomplishments/verify/MWLH654XX2TM"><img src="https://img.shields.io/badge/-Microsoft Cybersecurity Threat Vectors and Mitigation%2B-007ACC?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
+<a href="https://www.coursera.org/account/accomplishments/verify/0675AYJ0ND4S"><a href="https://www.coursera.org/account/accomplishments/verify/MWLH654XX2TM"><img src="https://img.shields.io/badge/- Microsoft Introduction to Networking and Cloud Computing%2B-007ACC?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
 
 
 </div>
