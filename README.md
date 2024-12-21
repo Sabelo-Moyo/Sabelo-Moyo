@@ -22,6 +22,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Incident Response Planning and Execution      | <a href ="https://github.com/Sabelo-Moyo/SOC-Automation">SOC Automation Lab|</a>
 | Case Management with TheHive                  | <a href="https://github.com/Sabelo-Moyo/SOC-Automation">SOC Automation Lab|</a>
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/Sabelo-Moyo/SOC-Automation">SOC Automation Lab|</a>
+|Active Directory | <a href="https://github.com/Sabelo-Moyo/SOC-Automation">Home Lab running active directory|</a>
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -59,3 +61,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - <a href="https://github.com/Sabelo-Moyo/Home-Lab">Home Lab</a>
 - <a href="https://github.com/Sabelo-Moyo/SOC-Automation">SOC Automation Project</a>
+- <a href="https://github.com/Sabelo-Moyo/Home-Lab">Home Lab running active directory</a>
