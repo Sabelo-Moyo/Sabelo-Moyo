@@ -14,6 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Projects                                         | 
 |-----------------------------------------------|
+| <a href="https://github.com/Sabelo-Moyo/Gabriel-James-Retail-Store">Retail Store Design</a>|
 |  <a href="https://github.com/Sabelo-Moyo/Home-Lab">Home Lab</a>         | 
 |  <a href="https://github.com/Sabelo-Moyo/Home-Lab">Home Lab</a>         | 
 |  <a href="https://github.com/Sabelo-Moyo/Home-Lab-Running-Active-Directory">Home Lab running active directory</a>         | 
