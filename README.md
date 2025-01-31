@@ -10,6 +10,18 @@ As an interior design student, I am passionate about creating functional, aesthe
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
+## Projects
+
+| Projects                                         | 
+|-----------------------------------------------|
+|  <a href="https://github.com/Sabelo-Moyo/Home-Lab">Home Lab</a>         | 
+|  <a href="https://github.com/Sabelo-Moyo/Home-Lab">Home Lab</a>         | 
+|  <a href="https://github.com/Sabelo-Moyo/Home-Lab-Running-Active-Directory">Home Lab running active directory</a>         | 
+|  <a href="https://github.com/Sabelo-Moyo/SOC-Automation">SOC Automation Project</a>        | 
+
+
+
+
 ## Skills
 
 
@@ -66,7 +78,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 </div>
 
-## Projects
-- <a href="https://github.com/Sabelo-Moyo/Home-Lab">Home Lab</a>
-- <a href="https://github.com/Sabelo-Moyo/SOC-Automation">SOC Automation Project</a>
-- <a href="https://github.com/Sabelo-Moyo/Home-Lab-Running-Active-Directory">Home Lab running active directory</a>
+
