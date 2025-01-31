@@ -2,9 +2,8 @@
 # Hello, I'm Sabelo
 <a href="https://www.linkedin.com/in/sabelo-moyo-3367ba227/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+As an interior design student, I am passionate about creating functional, aesthetically pleasing spaces that enhance human experiences. My work is driven by creativity, sustainability, and innovative problem-solving.In addition to design, I am deeply interested in cybersecurity, particularly its role in safeguarding digital ecosystems. I am exploring ways to integrate cybersecurity principles into smart home design and IoT-enabled spaces, ensuring safety alongside aesthetics.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
@@ -12,7 +11,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
